@@ -10,3 +10,32 @@
         border-color: grey;
         
     }
+    h3 {
+        color: darkgray;
+    }
+    h1 {
+        color: cadetblue;
+    }
+    h2 {
+        color: darkseagreen;
+    }
+    .couple {
+        background-color: lightcyan;
+        height: 250px;
+        width: 300px;
+    }
+    .tajmahal {
+        background-color: lightpink;
+        height: 250px;
+        width: 300px;
+    }
+    .circular {
+        background-color: red;
+        height: 200px;
+        width: 250px;
+    }
+    #nature {
+        background-color: powderblue;
+        height: 300px;
+        width: 350px;
+    }
